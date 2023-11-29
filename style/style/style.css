@@ -1,0 +1,99 @@
+#fundo{
+	background-color: #EEE8CD;
+	background-image: url('../img/fundo.png');
+	background-attachment: fixed;
+}
+
+.capa1{
+	height: 388px;
+	width: 900px;
+	background-image: url('../img/capa.png');
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
+
+.fundoDiv2{
+	height: 120px;
+	font-size: 20px;
+	background-attachment: scroll;
+	background-color: #BBBEA2;
+	text-align: center;
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
+
+.fundoDiv3{
+	background-color: #CDCEAA;
+	background-attachment: scroll;
+	text-align: justify;
+	color: black;
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
+
+.foto1{
+	border-width: 10px;
+	border-style: solid;
+	border-color: #EEE8CD;
+	background-image: url('../img/foto1.png');
+	height: 425px;
+	width: 640px;
+}
+
+.foto2{
+	border-width: 10px;
+	border-style: solid;
+	border-color: #EEE8CD;
+	background-image: url('../img/foto2.png');
+	height: 425px;
+	width: 640px;
+}
+
+.foto3{
+	border-width: 10px;
+	border-style: solid;
+	border-color: #EEE8CD;
+	background-image: url('../img/foto3.png');
+	height: 425px;
+	width: 640px;
+}
+
+
+div{
+	width: 900px;
+}
+
+p{
+	font-family: "Arial";
+	font-size: 20px;
+	text-align: justify;
+}
+
+h1{
+	color: RGB(169, 151, 117);
+	font-family: "Arial";
+	text-decoration: bold;
+	margin: 0;
+	border: 0;
+	padding: 0;	
+}
+
+a{
+	color: #3D3E47;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.footer{
+	font-family: "Arial";
+	color: black;
+	font-size: 20px;
+	text-decoration: bold;
+	font-weight: 700;
+	text-align: center;
+}
